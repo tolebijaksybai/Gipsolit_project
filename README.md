@@ -1,6 +1,6 @@
 # Gipsolit_project
 <h4 align="left">Адаптивный крутой Landing Page: cделано в HTML, CSS, JS(Jquery), Bootstrap, с анимациями</h4>
-<h4 align="left">Cсылка на сайт: <a href="https://tolebijaksybai.github.io/UberEate_project/" target="_blank">Gipsolit</a></h4>
+<h4 align="left">Cсылка на сайт: <a href="https://tolebijaksybai.github.io/Gipsolit_project/" target="_blank">Gipsolit</a></h4>
 
 <br/>
 
